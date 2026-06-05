@@ -1,0 +1,60 @@
+.hero {
+  padding: 40px;
+  font-family: sans-serif;
+  background: #d4d0d0;  
+  margin-left: 200px;
+  margin-right: 200px;
+  margin top: 3000px;
+  
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 30px;
+  
+}
+
+.navbar ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.navbar button {
+  background: transparent;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 6px;
+}
+
+
+.content {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-evenly;
+}
+
+.left {
+  width: 50%;
+}
+
+.left h1 {
+  font-size: 40px;
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.right img {
+   border-radius: 20px 0px 0px 20px;
+    margin-right: -70px;
+    width: auto;
+    height: 250px;
+}
