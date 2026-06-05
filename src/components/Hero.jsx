@@ -3,7 +3,7 @@ function Hero() {
     <div className="hero">
       <div className="left">
         <h1>
-          India’s #1 <br /> Ride-hailing App
+          India’s #1 <br /> Ride-hailing App wellcome
         </h1>
 
         <p>Quick, Affordable rides at your doorstep</p>
